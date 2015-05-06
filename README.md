@@ -1,2 +1,2 @@
 # mem
-need to know about mem
+need to know about memory
